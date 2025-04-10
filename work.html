@@ -8,7 +8,7 @@
             .simple-key-default::after {
                 content: " - ";
             }
-            .complex-key-default::after{
+            .complex-key-default::after {
                 content: ":";
             }
             .array > span::before {
@@ -19,15 +19,42 @@
                 padding: 2px;
                 margin: 0px;
             }
-            .string-default {
-                white-space: pre;
+            #imageWrapper {
+                display: flex;
+                justify-content: center;
             }
             img {
-                width: 20%;
+                width: 30%;
             }
         </style>
         <script src="https://github.mckaysalisbury.com/ListBoy/ListBoy.js"></script>
         <script>
+            
+            function linkify(work, column, title = null) {
+                if (column in work) {
+                    const value = work[column];
+                    if (value.startsWith("http")) {                        
+                        if (title == null) {
+                            title = value;
+                            if (value.indexOf("wiki") != -1) {
+                                lastSlashIndex = value.lastIndexOf('/');
+                                title = value.substring(lastSlashIndex + 1);                            
+                                title = title.replaceAll("_", " ")
+                            }
+                        }
+                        work[column] = `<a href="${value}">${title}</a>`;
+                    }
+                }
+            }
+
+            function mapify(work, column) {
+                if (column in work) {
+                    original = work[column];
+                    work[column] = `https://maps.google.com/?q=${original}`;
+                    linkify(work, column, original);
+                }
+            }
+
             const id = new URLSearchParams(document.location.search).get("id");
             if (id === null) {
                 alert("ID Not specified. Redirecting to list of all items");
@@ -44,10 +71,18 @@
                         } else {
                             work = matches[0]
                             // Add an image html.
+                            image.src= `images/${work["Image File Name"]}`;
+                            delete work["Image File Name"];
+                            delete work.id;
+
+                            // Make prettier
+                            linkify(work, "Subject");
+                            mapify(work, "Location Painted");
+                            mapify(work, "Subject Location");
 
                             // match = keywordsToLinks(htmlify(preprocess(matches[0])));
-                            ListBoy.RenderTo(work, "mainDiv");
-                            
+                            ListBoy.RenderTo(work, "dataDiv");
+                            image = document.getElementById("image");
                         }
                     })
                 );
@@ -56,11 +91,11 @@
         </script>
     </head>
     <body>
-        <div id="mainDiv"></div>
+        <div id="dataDiv"></div>
+        <div id="imageWrapper">
+            <img id="image" />
+        </div>
     </body>
-    <script>
-        setupItem('minifigs.json', alterExternalData);
-    </script>
 </html>
 
 
