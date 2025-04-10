@@ -1,0 +1,468 @@
+[
+    {
+        "id": "1",
+        "title": "Self Portrait",
+        "date": "1940s"
+    },
+    {
+        "id": "2",
+        "title": "Patterns",
+        "date": "1947"
+    },
+    {
+        "id": "3",
+        "title": "Jeanne",
+        "date": "1940s"
+    },
+    {
+        "id": "4",
+        "title": "Jeanne",
+        "date": "1942"
+    },
+    {
+        "id": "5",
+        "title": "Various illustrations"
+    },
+    {
+        "id": "6",
+        "title": "BYU Cougar",
+        "date": "1970s"
+    },
+    {
+        "id": "7",
+        "title": "Untitled charcoal"
+    },
+    {
+        "id": "8",
+        "title": "Watercolors for Stanford Art Class",
+        "date": "1950s"
+    },
+    {
+        "title": "Watercolors for Stanford Art Class",
+        "date": "1950s"
+    },
+    {
+        "id": "9",
+        "title": "Diamond Head Hawaii",
+        "date": "1940s",
+        "subject": "Diamond Head Hawaii"
+    },
+    {
+        "id": "10",
+        "title": "Boy with Model Airplane"
+    },
+    {
+        "id": "11",
+        "title": "Untitled",
+        "date": "1950s"
+    },
+    {
+        "id": "12",
+        "title": "Tree Talk",
+        "date": "1940s"
+    },
+    {
+        "id": "13",
+        "title": "Hindu Dancers",
+        "date": "1961",
+        "subject": "India"
+    },
+    {
+        "id": "14",
+        "title": "Hindu Shoemaker",
+        "date": "1961",
+        "subject": "India"
+    },
+    {
+        "id": "15",
+        "title": "Candy in Promised Valley",
+        "date": "1962"
+    },
+    {
+        "id": "16",
+        "title": "Benjamin LeRoy Gunn"
+    },
+    {
+        "id": "17",
+        "title": "Gypsy Girl",
+        "date": "1942"
+    },
+    {
+        "id": "18",
+        "title": "Jean Char Gong",
+        "date": "1940s"
+    },
+    {
+        "id": "19",
+        "title": "Man with a Mustache"
+    },
+    {
+        "id": "20",
+        "title": "Ray and Nellie Reeves",
+        "date": "1968"
+    },
+    {
+        "id": "21",
+        "title": "European Countryside",
+        "date": "1961-62"
+    },
+    {
+        "id": "22",
+        "title": "French Alps",
+        "date": "1961-62"
+    },
+    {
+        "id": "23",
+        "title": "Three Trees, Italy",
+        "date": "1961-62"
+    },
+    {
+        "id": "24",
+        "title": "Grindelwald",
+        "date": "1961-62"
+    },
+    {
+        "id": "25",
+        "title": "Grindelwald",
+        "date": "1961-62"
+    },
+    {
+        "id": "26",
+        "title": "Alps",
+        "date": "1961-62"
+    },
+    {
+        "id": "27",
+        "title": "Normandy Beach, France",
+        "date": "1961-62"
+    },
+    {
+        "id": "28",
+        "title": "Spanish Coast",
+        "date": "1961-62"
+    },
+    {
+        "id": "29",
+        "title": "Spanish Shore",
+        "date": "1961-62"
+    },
+    {
+        "id": "30",
+        "title": "Modern Marseille",
+        "date": "1961-62"
+    },
+    {
+        "id": "31",
+        "title": "Marseille Harbor, France",
+        "date": "1961-62"
+    },
+    {
+        "id": "32",
+        "title": "Marseille Masts",
+        "date": "1961-62"
+    },
+    {
+        "id": "33",
+        "title": "Bavarian Campground",
+        "date": "1990s"
+    },
+    {
+        "id": "34",
+        "title": "Autobahn Traffic",
+        "date": "1961-62"
+    },
+    {
+        "id": "35",
+        "title": "Jungfrau Switzerland",
+        "date": "1961-62"
+    },
+    {
+        "id": "36",
+        "title": "Jungfraujock Lodge Switzerland",
+        "date": "1961-62"
+    },
+    {
+        "id": "37",
+        "title": "Lauterbrunnen Switzerland",
+        "date": "1961-62"
+    },
+    {
+        "id": "38",
+        "title": "Chamrousse French Alps",
+        "date": "1961-62"
+    },
+    {
+        "id": "39",
+        "title": "Spanish Street Scenes I",
+        "date": "1961-62"
+    },
+    {
+        "id": "40",
+        "title": "Spanish Street Scene II",
+        "date": "1961-62"
+    },
+    {
+        "id": "41",
+        "title": "French Street",
+        "date": "1961-62"
+    },
+    {
+        "id": "42",
+        "title": "Spackenburg",
+        "date": "1961-62"
+    },
+    {
+        "id": "43",
+        "title": "Market at Padua Italy",
+        "date": "1961-62"
+    },
+    {
+        "id": "44",
+        "title": "Spanish Village",
+        "date": "1961-62"
+    },
+    {
+        "id": "45",
+        "title": "Venice Lido Surf",
+        "date": "1961-62"
+    },
+    {
+        "id": "46",
+        "title": "Venice",
+        "date": "1961-62",
+        "subject": "Venice",
+        "image_file": "46 Venice 1962.jpg"
+    },
+    {
+        "id": "47",
+        "title": "Venice at Night",
+        "date": "1961-62",
+        "subject": "Venice",
+        "image_file": "47 Venice at night.jpg"
+    },
+    {
+        "id": "48",
+        "title": "Neuschwanstein",
+        "date": "1961-62"
+    },
+    {
+        "id": "49",
+        "title": "Untitled"
+    },
+    {
+        "id": "50",
+        "title": "Berlin Kongresshalle",
+        "date": "1961-62"
+    },
+    {
+        "id": "51",
+        "title": "Swiss Cheese"
+    },
+    {
+        "id": "52",
+        "title": "Untitled"
+    },
+    {
+        "id": "53",
+        "title": "Symphony",
+        "date": "1961-62"
+    },
+    {
+        "id": "54",
+        "title": "Lascaux"
+    },
+    {
+        "id": "55",
+        "title": "Untitled"
+    },
+    {
+        "id": "56",
+        "title": "Untitled"
+    },
+    {
+        "id": "57",
+        "title": "California Shore",
+        "date": "1970s"
+    },
+    {
+        "id": "58",
+        "title": "Mt. Rundle in Banff National Park",
+        "date": "1970s"
+    },
+    {
+        "id": "59",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "60",
+        "title": "Redwoods",
+        "date": "1970s"
+    },
+    {
+        "id": "61",
+        "title": "Redwoods",
+        "date": "1980s"
+    },
+    {
+        "id": "62",
+        "title": "Alpensee",
+        "date": "1970s"
+    },
+    {
+        "id": "63",
+        "title": "Lake Powell",
+        "date": "1980s"
+    },
+    {
+        "id": "64",
+        "title": "Mountain Stream",
+        "date": "1970"
+    },
+    {
+        "id": "65",
+        "title": "Island of Santorini Greece",
+        "date": "1980s",
+        "subject": "https://en.wikipedia.org/wiki/Santorini"
+    },
+    {
+        "id": "66",
+        "title": "Point Lobos",
+        "date": "1970s",
+        "subject": "https://en.wikipedia.org/wiki/Point_Lobos"
+    },
+    {
+        "id": "67",
+        "title": "Santorini",
+        "date": "1980s",
+        "subject": "https://en.wikipedia.org/wiki/Santorini"
+    },
+    {
+        "id": "68",
+        "title": "Timpanogos",
+        "date": "1970s",
+        "subject": "https://en.wikipedia.org/wiki/Mount_Timpanogos"
+    },
+    {
+        "id": "69",
+        "title": "Timpanogos",
+        "date": "1992",
+        "subject": "https://en.wikipedia.org/wiki/Mount_Timpanogos"
+    },
+    {
+        "id": "71",
+        "title": "Man with a Mustache II"
+    },
+    {
+        "id": "72",
+        "title": "Power Politics (Suez)"
+    },
+    {
+        "id": "73",
+        "title": "Autobahn"
+    },
+    {
+        "id": "74",
+        "title": "Alps?"
+    },
+    {
+        "id": "75",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "76",
+        "title": "Lake Powell"
+    },
+    {
+        "id": "77",
+        "title": "Bubbles"
+    },
+    {
+        "id": "78",
+        "title": "(Abstract)"
+    },
+    {
+        "id": "79",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "80",
+        "title": "(Abstract)"
+    },
+    {
+        "id": "81",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "82",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "83",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "84",
+        "title": "Red Headed Woman"
+    },
+    {
+        "id": "85",
+        "title": "Mountain Scene"
+    },
+    {
+        "id": "86",
+        "title": "Hawaiian Dancers"
+    },
+    {
+        "id": "87",
+        "title": "(Abstract)"
+    },
+    {
+        "id": "88",
+        "title": "(Abstract)"
+    },
+    {
+        "id": "89",
+        "title": "Landscape"
+    },
+    {
+        "id": "90",
+        "title": "Tree Landscape"
+    },
+    {
+        "id": "91",
+        "title": "German cityscape"
+    },
+    {
+        "id": "92",
+        "title": "Wave"
+    },
+    {
+        "id": "93",
+        "title": "Landscape"
+    },
+    {
+        "id": "94",
+        "title": "Tree Landscape"
+    },
+    {
+        "id": "95",
+        "title": "Anne Bradstreet"
+    },
+    {
+        "id": "96",
+        "title": "Cotton Mather"
+    },
+    {
+        "id": "97",
+        "title": "Flower Dancers"
+    },
+    {
+        "id": "98",
+        "title": "Joseph Smith",
+        "date": "1961"
+    },
+    {
+        "id": "99",
+        "title": "On the Road to Bethlehem"
+    }
+]

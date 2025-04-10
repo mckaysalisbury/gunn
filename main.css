@@ -1,0 +1,48 @@
+/* This is the CSS for the page itself. Customize this to your liking */
+
+body {
+    margin:0;
+    background-color: #002E5D;
+    font-family: "Tims New Roman", Times, serif;
+}
+
+#header {
+    background-size: cover;
+    height: 200px;
+    overflow: hidden;
+}
+
+#headerText {
+    font-size:54pt;
+    text-align: center;
+    padding:20px;
+}
+
+#spacer #headerText {
+    color:white;
+}
+
+#spacer {
+    width:100%;
+    background-color: #0047BA;
+    min-height:30px;
+    margin-bottom:5px;
+}
+
+#limiter {
+    margin: auto;
+    width:85%;
+    /* max-width: 1100px; */
+    text-align: center;
+}
+
+#blocksArea {
+    margin: auto;
+}
+
+.mainBlock {
+    margin: 5px;
+    text-align: center;
+    color: #002E5D;
+    background-color: white;
+}
