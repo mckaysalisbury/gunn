@@ -65,7 +65,7 @@
         "id": "5f",
         "Title": "Syllabus Illustration--19th Century Art",
         "Comments": "Syllabus Opening Page for Art 309",
-        "Image File Name": "05 Illustratio Van Gogh.jpg"
+        "Image File Name": "05 Illustration Van Gogh.jpg"
     },
     {
         "id": "5g",
@@ -446,7 +446,8 @@
         "id": "54",
         "Title": "Lascaux",
         "Where Art is Housed": "Becky Gunn Barton",
-        "Comments": "On the walls of Lascaux Cave in southwestern France are impressive drawings from prehistoric time."
+        "Comments": "On the walls of Lascaux Cave in southwestern France are impressive drawings from prehistoric time.",
+        "Image File Name": "54 Lasceaux.jpg"
     },
     {
         "id": "55",
@@ -771,11 +772,17 @@
         "Image File Name": "99 On the Road to Bethlehem.jpg"
     },
     {
-        "id": "7b871f39-e8c3-4941-9639-ed41010259e8",
-        "Image File Name": "100 Evelyn Oaks.jpg"
+        "id": "100",
+        "Title": "Abstract",
+        "Where Art is Housed": "Evelyn Oaks Moody",
+        "Comments": "Dallin Oaks' sister",
+        "Image File Name": "Evelyn Oaks.jpg"
     },
     {
-        "id": "84ded0f9-b1e6-4004-a783-5b923468137d",
-        "Image File Name": "101 Sandberg painting.jpb"
+        "id": "101",
+        "Title": "Landscape",
+        "Where Art is Housed": "Barbara Hatch Sandberg",
+        "Comments": "Friend of Kathy",
+        "Image File Name": "Sandberg painting.jpg"
     }
 ]
