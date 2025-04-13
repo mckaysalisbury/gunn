@@ -32,9 +32,58 @@
     },
     {
         "id": "5a",
-        "Title": "Various illustrations--Cartoon poster",
-        "Comments": "Dad was asked to illustrate several books, including The Ten Most Wanted Men by Paul H. Dunn (1967). Plant a Lilac: 1936, the year he graduated from high school. He did countless illustrations for magazines, BYU, Provo City, the Young Men’s General Board Publications, greeting cards, etc. Banner (3 ft. by 25 ft.): 1950s for the Utah State Fair depicting scenes from Utah County.",
+        "Title": "Plant a Lilac",
+        "Date": "1936, the year he graduated from high school",
+        "Comments": "Ink",
+        "Image File Name": "05 Plant a Lilac.jpg"
+    },
+    {
+        "id": "5b",
+        "Title": "Cartoon poster",
+        "Comments": "Ink",
         "Image File Name": "05 Cartoon Poster.jpg"
+    },
+    {
+        "id": "5c",
+        "Title": "Baker--Drawing",
+        "Comments": "Ink",
+        "Image File Name": "05 Illustration Baker.jpg"
+    },
+    {
+        "id": "5d",
+        "Title": "King--Drawing",
+        "Comments": "Ink",
+        "Image File Name": "05 Illustration King.jpg"
+    },
+    {
+        "id": "5e",
+        "Title": "BYU Homecoming Illustration",
+        "Comments": "Dad was asked to illustrate several books. He did countless illustrations for magazines, BYU, Provo City, the Young Men’s General Board Publications, greeting cards, etc. ",
+        "Image File Name": "05 Illustration BYU Homecoming.jpg"
+    },
+    {
+        "id": "5f",
+        "Title": "Syllabus Illustration--19th Century Art",
+        "Comments": "Syllabus Opening Page for Art 309",
+        "Image File Name": "05 Illustratio Van Gogh.jpg"
+    },
+    {
+        "id": "5g",
+        "Title": "Utah County Banner left",
+        "Comments": "Banner displayed at the Utah State Fair representing Utah County 1950s (3 ft by 25 ft)",
+        "Image File Name": "05 Utah County Banner left.jpg"
+    },
+    {
+        "id": "5h",
+        "Title": "Utah County Banner right",
+        "Comments": "Banner displayed at the Utah State Fair representing Utah County 1950s (3 ft by 25 ft)",
+        "Image File Name": "05 Utah County Banner right.jpg"
+    },
+    {
+        "id": "5i",
+        "Title": "Ten Most Wanted Men Illustration",
+        "Comments": "Illustration for Paul H. Dunn's book \"Ten Most Wanted Men,\" 1967",
+        "Image File Name": "05 Wanted Illustration.jpg"
     },
     {
         "id": "6",
@@ -71,7 +120,7 @@
         "Subject Location": "21.261, -157.805",
         "Subject": "https://en.wikipedia.org/wiki/Diamond_Head,_Hawaii",
         "Where Art is Housed": "Esther Criner Cox",
-        "Image File Name": "09 Diamond Head crop.jpg"
+        "Image File Name": "09 Diamond Head crop.JPG"
     },
     {
         "id": "10",
@@ -114,13 +163,16 @@
         "id": "15",
         "Title": "Candy in Promised Valley",
         "Date": "1962",
+        "Subject Location": "Berchtesgaden, Germany",
         "Where Art is Housed": "Rachel Steed, friend of Candy",
+        "Comments": "While we were in Germany, staying with George and Pat Kiser (Mom's niece), she was directing Promised Valley for the Servicemen's Branch and recruited some of the Gunns to participate",
         "Image File Name": "15 Candy at Berchtesgaden.jpg"
     },
     {
         "id": "16",
         "Title": "Benjamin LeRoy Gunn",
         "Where Art is Housed": "Jonathan Roberts",
+        "Comments": "Dad's father--his grandchildren called him Ba",
         "Image File Name": "16 Ba.jpg"
     },
     {
@@ -149,7 +201,7 @@
         "Title": "Ray and Nellie Reeves",
         "Date": "1968",
         "Where Art is Housed": "BYU Museum of Art",
-        "Comments": "The Reeves came to BYU and were very impressed with the quality of the university and the standards of the students and gave a large donation to BYU. They were not members of the Church of Jesus Christ of Latter-day Saints. BYU commissioned Dad to do the painting in honor of their donation. They later joined the Church.",
+        "Comments": "The Reeves came to BYU and were very impressed with the quality of the university and the standards of the students. They gave a large donation to BYU. At the time, they were not members of the Church of Jesus Christ of Latter-day Saints. BYU commissioned Dad to do the painting in honor of their donation. They later joined the Church.",
         "Image File Name": "20 Reeves Ray and Nellie 1968.jpg"
     },
     {
@@ -179,14 +231,14 @@
         "Date": "1961-62",
         "Where Art is Housed": "Merlin Salisbury",
         "Comments": "Gift from Jeanne Webb Muir.",
-        "Image File Name": "24 Grindelwald Muir.jpg"
+        "Image File Name": "24 Grindewald Muir.jpg"
     },
     {
         "id": "25",
         "Title": "Grindelwald",
         "Date": "1961-62",
         "Comments": "Slide collection",
-        "Image File Name": "25 Grindelwald 1962.jpg"
+        "Image File Name": "25 Grindewald 1962.jpg"
     },
     {
         "id": "26",
@@ -229,7 +281,7 @@
         "Title": "Marseille Harbor, France",
         "Date": "1961-62",
         "Where Art is Housed": "Staci Barton Shields",
-        "Image File Name": "31 Marseille Fishing Boats.jpg"
+        "Image File Name": "31 Marseille Fishing boats.jpg"
     },
     {
         "id": "32",
@@ -258,7 +310,7 @@
         "Title": "Jungfrau Switzerland",
         "Date": "1961-62",
         "Where Art is Housed": "Emily Barton Stout",
-        "Image File Name": "35 Jung Frau .jpg"
+        "Image File Name": "35 Jung Frau.jpg"
     },
     {
         "id": "36",
@@ -274,7 +326,7 @@
         "Date": "1961-62",
         "Where Art is Housed": "Wayne Boss",
         "Comments": "When Dad was bishop of the BYU 26th Ward, Bro. Boss was a counselor.",
-        "Image File Name": "37 Lauterbrunnen.jpg"
+        "Image File Name": "37 Lauterbrunnen.JPG"
     },
     {
         "id": "38",
@@ -310,7 +362,7 @@
         "Title": "Spackenburg Holland",
         "Date": "1961-62",
         "Comments": "Slide collection",
-        "Image File Name": "42 Spackenburg Holland.jpg"
+        "Image File Name": "42 Spakenburg Holland 1962.jpg"
     },
     {
         "id": "43",
@@ -318,14 +370,14 @@
         "Date": "1961-62",
         "Where Art is Housed": "Michelle Salisbury McCullough",
         "Comments": "A gift from the estate of Parley Larsen.",
-        "Image File Name": "43 Padova Market.jpg"
+        "Image File Name": "43 Padova Market.JPG"
     },
     {
         "id": "44",
         "Title": "Spanish village",
         "Date": "1961-62",
         "Where Art is Housed": "Jeff Barton",
-        "Image File Name": "44 Spanish Village.jpg"
+        "Image File Name": "44 Spanish village.jpg"
     },
     {
         "id": "45",
@@ -394,14 +446,13 @@
         "id": "54",
         "Title": "Lascaux",
         "Where Art is Housed": "Becky Gunn Barton",
-        "Comments": "On the walls of Lascaux Cave in southwestern France are impressive drawings from prehistoric time.",
-        "Image File Name": "54 Lascaux.jpg"
+        "Comments": "On the walls of Lascaux Cave in southwestern France are impressive drawings from prehistoric time."
     },
     {
         "id": "55",
         "Title": "Untitled",
         "Where Art is Housed": "Esther Criner Cox",
-        "Image File Name": "55 Esther abstract.jpg"
+        "Image File Name": "55 Esther abstract.JPG"
     },
     {
         "id": "56",
@@ -520,7 +571,7 @@
         "Title": "Man with a Mustache II",
         "Where Art is Housed": "Springville Art Museum",
         "Comments": "Donated to the museum by the Gunn estate",
-        "Image File Name": "71 Donated to Springville Art Museum.jpg"
+        "Image File Name": "71 Donated to Springville Art Museum.JPG"
     },
     {
         "id": "72",
@@ -561,7 +612,7 @@
         "Title": "Bubbles",
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
-        "Image File Name": "77 Bubbles crop.jpg"
+        "Image File Name": "77 Bubbles crop.JPG"
     },
     {
         "id": "78",
@@ -610,7 +661,7 @@
         "Title": "Red Headed Woman",
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
-        "Image File Name": "84 Red headed Woman.jpg"
+        "Image File Name": "84 Red headed Woman.JPG"
     },
     {
         "id": "85",
@@ -687,7 +738,7 @@
         "Title": "Anne Bradstreet",
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
-        "Image File Name": "95 Anne Bradstreet.jpg"
+        "Image File Name": "95 Anne Bradstreet.JPG"
     },
     {
         "id": "96",
@@ -695,7 +746,7 @@
         "Subject": "https://en.wikipedia.org/wiki/Cotton_Mather",
         "Where Art is Housed": "Candy Gunn Salisbury",
         "Comments": "Found in the attic when Jeanine got married",
-        "Image File Name": "96 Cotton Mather.jpg"
+        "Image File Name": "96 Cotton Mather.JPG"
     },
     {
         "id": "97",
@@ -718,5 +769,13 @@
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "99 On the Road to Bethlehem.jpg"
+    },
+    {
+        "id": "7b871f39-e8c3-4941-9639-ed41010259e8",
+        "Image File Name": "100 Evelyn Oaks.jpg"
+    },
+    {
+        "id": "84ded0f9-b1e6-4004-a783-5b923468137d",
+        "Image File Name": "101 Sandberg painting.jpb"
     }
 ]
