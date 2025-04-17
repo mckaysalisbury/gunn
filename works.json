@@ -3,6 +3,7 @@
         "id": "1",
         "Title": "Self Portrait",
         "Date": "1940s",
+        "Subject": "https://archives.lib.byu.edu/agents/people/15273",
         "Where Art is Housed": "Ameris Criner-Dortch",
         "Image File Name": "01 Self portrait.jpg"
     },
@@ -58,30 +59,40 @@
     {
         "id": "5e",
         "Title": "BYU Homecoming Illustration",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "40.25200317308197, -111.64935315092602",
         "Comments": "Dad was asked to illustrate several books. He did countless illustrations for magazines, BYU, Provo City, the Young Men’s General Board Publications, greeting cards, etc. ",
         "Image File Name": "05 Illustration BYU Homecoming.jpg"
     },
     {
         "id": "5f",
         "Title": "Syllabus Illustration--19th Century Art",
+        "Location Painted": "40.2636,-111.6364",
         "Comments": "Syllabus Opening Page for Art 309",
         "Image File Name": "05 Illustration Van Gogh.jpg"
     },
     {
         "id": "5g",
         "Title": "Utah County Banner left",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "40.1,111.6",
+        "Subject": "https://en.wikipedia.org/wiki/Utah_County,_Utah",
         "Comments": "Banner displayed at the Utah State Fair representing Utah County 1950s (3 ft by 25 ft)",
         "Image File Name": "05 Utah County Banner left.jpg"
     },
     {
         "id": "5h",
         "Title": "Utah County Banner right",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "40.1,111.6",
+        "Subject": "https://en.wikipedia.org/wiki/Utah_County,_Utah",
         "Comments": "Banner displayed at the Utah State Fair representing Utah County 1950s (3 ft by 25 ft)",
         "Image File Name": "05 Utah County Banner right.jpg"
     },
     {
         "id": "5i",
         "Title": "Ten Most Wanted Men Illustration",
+        "Location Painted": "40.2636,-111.6364",
         "Comments": "Illustration for Paul H. Dunn's book \"Ten Most Wanted Men,\" 1967",
         "Image File Name": "05 Wanted Illustration.jpg"
     },
@@ -89,6 +100,9 @@
         "id": "6",
         "Title": "BYU Cougar ",
         "Date": "1970s",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "40.25200317308197, -111.64935315092602",
+        "Subject": "https://en.wikipedia.org/wiki/BYU_Cougars",
         "Comments": "Required some extensive detective work to find. Used by BYU Dining Services for decades.",
         "Image File Name": "06 Cougar.jpg"
     },
@@ -101,15 +115,17 @@
     },
     {
         "id": "8a",
-        "Title": "Watercolors for Stanford Art Class",
+        "Title": "Watercolor for Stanford Art Class",
         "Date": "1950s",
+        "Location Painted": "49.34092579677813, -0.5982155409750191",
         "Where Art is Housed": "Becky Gunn Barton ",
         "Image File Name": "08a Stanford Becky.jpg"
     },
     {
         "id": "8b",
-        "Title": "Watercolors for Stanford Art Class",
+        "Title": "Watercolor for Stanford Art Class",
         "Date": "1950s",
+        "Location Painted": "49.34092579677813, -0.5982155409750191",
         "Where Art is Housed": "Kathy Gunn Roberts",
         "Image File Name": "08b Stanford Kathy.jpg"
     },
@@ -146,16 +162,12 @@
     {
         "id": "13",
         "Title": "Hindu Dancers",
-        "Date": "1961",
-        "Subject Location": "India",
         "Comments": "Slide collection",
         "Image File Name": "13 Hindu Dancers 1961 01.jpg"
     },
     {
         "id": "14",
         "Title": "Hindu Shoemaker",
-        "Date": "1961",
-        "Subject Location": "India",
         "Comments": "Slide collection",
         "Image File Name": "14 Hindu Shoemaker 1961.jpg"
     },
@@ -163,9 +175,9 @@
         "id": "15",
         "Title": "Candy in Promised Valley",
         "Date": "1962",
-        "Subject Location": "Berchtesgaden, Germany",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
         "Where Art is Housed": "Rachel Steed, friend of Candy",
-        "Comments": "While we were in Germany, staying with George and Pat Kiser (Mom's niece), she was directing Promised Valley for the Servicemen's Branch and recruited some of the Gunns to participate",
+        "Comments": "While we were in Germany, staying with George and Pat Kiser (Mom's niece), she was directing Promised Valley for the Servicemen's Branch and recruited some of the Gunns to participate. The show was performed in Berchtesgaden. ",
         "Image File Name": "15 Candy at Berchtesgaden.jpg"
     },
     {
@@ -200,6 +212,7 @@
         "id": "20",
         "Title": "Ray and Nellie Reeves",
         "Date": "1968",
+        "Location Painted": "40.2636,-111.6364",
         "Where Art is Housed": "BYU Museum of Art",
         "Comments": "The Reeves came to BYU and were very impressed with the quality of the university and the standards of the students. They gave a large donation to BYU. At the time, they were not members of the Church of Jesus Christ of Latter-day Saints. BYU commissioned Dad to do the painting in honor of their donation. They later joined the Church.",
         "Image File Name": "20 Reeves Ray and Nellie 1968.jpg"
@@ -215,6 +228,7 @@
         "id": "22",
         "Title": "French Alps",
         "Date": "1961-62",
+        "Subject": "https://en.wikipedia.org/wiki/French_Alps",
         "Where Art is Housed": "Bartons (Julie?)",
         "Image File Name": "22 Alps Beckham.jpg"
     },
@@ -229,6 +243,8 @@
         "id": "24",
         "Title": "Grindelwald",
         "Date": "1961-62",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Grindelwald",
         "Where Art is Housed": "Merlin Salisbury",
         "Comments": "Gift from Jeanne Webb Muir.",
         "Image File Name": "24 Grindewald Muir.jpg"
@@ -237,6 +253,8 @@
         "id": "25",
         "Title": "Grindelwald",
         "Date": "1961-62",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Grindelwald",
         "Comments": "Slide collection",
         "Image File Name": "25 Grindewald 1962.jpg"
     },
@@ -244,6 +262,7 @@
         "id": "26",
         "Title": "Alps",
         "Date": "1961-62",
+        "Subject": "https://en.wikipedia.org/wiki/Alps",
         "Comments": "Slide collection",
         "Image File Name": "26 Alps 1962.jpg"
     },
@@ -251,6 +270,8 @@
         "id": "27",
         "Title": "Normandy Beach, France",
         "Date": "1961-62",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Normandy",
         "Where Art is Housed": "Kathy Gunn Roberts",
         "Comments": "Gift from Virginia Wright Robinson family",
         "Image File Name": "27 Normandy Beach.jpg"
@@ -259,6 +280,7 @@
         "id": "28",
         "Title": "Spanish Coast",
         "Date": "1961-62",
+        "Subject": "https://en.wikipedia.org/wiki/Spain",
         "Where Art is Housed": "Carolann Lambert Eastmond",
         "Image File Name": "28 Lambert Coast.jpg"
     },
@@ -266,6 +288,7 @@
         "id": "29",
         "Title": "Spanish Shore",
         "Date": "1961-62",
+        "Subject": "https://en.wikipedia.org/wiki/Spain",
         "Where Art is Housed": "Ray Beckham Estate",
         "Image File Name": "29 Spanish shore Beckham.jpg"
     },
@@ -273,6 +296,8 @@
         "id": "30",
         "Title": "Modern Marseille",
         "Date": "1961-62",
+        "Subject Location": "43.30257974694588, 5.374801063213895",
+        "Subject": "https://en.wikipedia.org/wiki/Marseille",
         "Where Art is Housed": "Jeanine Gunn",
         "Image File Name": "30 Marseille Modern.jpg"
     },
@@ -280,6 +305,8 @@
         "id": "31",
         "Title": "Marseille Harbor, France",
         "Date": "1961-62",
+        "Subject Location": "43.30257974694588, 5.374801063213895",
+        "Subject": "https://en.wikipedia.org/wiki/Marseille",
         "Where Art is Housed": "Staci Barton Shields",
         "Image File Name": "31 Marseille Fishing boats.jpg"
     },
@@ -287,6 +314,8 @@
         "id": "32",
         "Title": "Marseille Masts",
         "Date": "1961-62",
+        "Subject Location": "43.30257974694588, 5.374801063213895",
+        "Subject": "https://en.wikipedia.org/wiki/Marseille",
         "Comments": "Slide collection",
         "Image File Name": "32 Marseille Masts 1962.jpg"
     },
@@ -294,6 +323,7 @@
         "id": "33",
         "Title": "Bavarian Campground",
         "Date": "1990s",
+        "Location Painted": "40.2636,-111.6364",
         "Where Art is Housed": "Jeanine Gunn ",
         "Comments": "Original sold to Ben Lewis and additional painting made for Jeanine",
         "Image File Name": "33 Bavarian campground.jpg"
@@ -302,6 +332,7 @@
         "id": "34",
         "Title": "Autobahn Traffic",
         "Date": "1961-62",
+        "Subject": "https://en.wikipedia.org/wiki/Autobahn",
         "Where Art is Housed": "Justin Criner",
         "Image File Name": "34 Autobahn Traffic.jpg"
     },
@@ -309,6 +340,8 @@
         "id": "35",
         "Title": "Jungfrau Switzerland",
         "Date": "1961-62",
+        "Subject Location": "46.537903379589004, 7.962595190256769",
+        "Subject": "https://en.wikipedia.org/wiki/Jungfrau",
         "Where Art is Housed": "Emily Barton Stout",
         "Image File Name": "35 Jung Frau.jpg"
     },
@@ -316,6 +349,8 @@
         "id": "36",
         "Title": "Jungfraujock Lodge Switzerland",
         "Date": "1961-62",
+        "Subject Location": "46.549486140579965, 7.9812012994722",
+        "Subject": "https://en.wikipedia.org/wiki/Jungfraujoch",
         "Where Art is Housed": "Becky Gunn Barton",
         "Comments": "We stayed in this lodge on the top of the mountain.",
         "Image File Name": "36 Jungfraujock lodge.jpg"
@@ -324,6 +359,8 @@
         "id": "37",
         "Title": "Lauterbrunnen Switzerland",
         "Date": "1961-62",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Lauterbrunnen",
         "Where Art is Housed": "Wayne Boss",
         "Comments": "When Dad was bishop of the BYU 26th Ward, Bro. Boss was a counselor.",
         "Image File Name": "37 Lauterbrunnen.JPG"
@@ -332,20 +369,22 @@
         "id": "38",
         "Title": "Chamrousse",
         "Date": "1961-62",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Chamrousse",
         "Where Art is Housed": "Jonathan Roberts",
         "Comments": "Near Grenoble and home to the 1968 Winter Olympics.",
         "Image File Name": "38 Chamrousse.jpg"
     },
     {
         "id": "39",
-        "Title": "Spanish street boys playing marbles.jpg",
+        "Title": "Spanish Street Scene I",
         "Date": "1961-62",
         "Where Art is Housed": "Stephanie Barton Tueller",
         "Image File Name": "39 Spanish street boys playing marbles.jpg"
     },
     {
         "id": "40",
-        "Title": "Spanish street scene ",
+        "Title": "Spanish Street Scene II",
         "Date": "1961-62",
         "Where Art is Housed": "Kathy Gunn Roberts",
         "Image File Name": "40 Spanish street scene.jpg"
@@ -359,8 +398,10 @@
     },
     {
         "id": "42",
-        "Title": "Spackenburg Holland",
+        "Title": "Spakenburg Holland",
         "Date": "1961-62",
+        "Subject Location": "52.251311356677554, 5.36589421897793",
+        "Subject": "https://en.wikipedia.org/wiki/Spakenburg",
         "Comments": "Slide collection",
         "Image File Name": "42 Spakenburg Holland 1962.jpg"
     },
@@ -368,6 +409,8 @@
         "id": "43",
         "Title": "Padova Market",
         "Date": "1961-62",
+        "Subject Location": "45.41057149769462, 11.879224114230537",
+        "Subject": "https://en.wikipedia.org/wiki/Padua",
         "Where Art is Housed": "Michelle Salisbury McCullough",
         "Comments": "A gift from the estate of Parley Larsen.",
         "Image File Name": "43 Padova Market.JPG"
@@ -383,6 +426,8 @@
         "id": "45",
         "Title": "Venice Lido Surf ",
         "Date": "1961-62",
+        "Subject Location": "45.46083454029198, 12.325728306982569",
+        "Subject": "https://en.wikipedia.org/wiki/Venice",
         "Comments": "Slide collection",
         "Image File Name": "45 Venice Lido Surf 1962.jpg"
     },
@@ -390,7 +435,8 @@
         "id": "46",
         "Title": "Venice",
         "Date": "1961-62",
-        "Subject": "Venice",
+        "Subject Location": "45.46083454029198, 12.325728306982569",
+        "Subject": "https://en.wikipedia.org/wiki/Venice",
         "Comments": "Slide collection",
         "Image File Name": "46 Venice 1962.jpg"
     },
@@ -398,7 +444,8 @@
         "id": "47",
         "Title": "Venice at night",
         "Date": "1961-62",
-        "Subject": "Venice",
+        "Subject Location": "45.46083454029198, 12.325728306982569",
+        "Subject": "https://en.wikipedia.org/wiki/Venice",
         "Where Art is Housed": "McKay Salisbury",
         "Image File Name": "47 Venice at night.jpg"
     },
@@ -406,12 +453,15 @@
         "id": "48",
         "Title": "Neuschwanstein",
         "Date": "1961-62",
+        "Subject Location": "47.55773325840316, 10.7497789375587",
+        "Subject": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
         "Where Art is Housed": "Mary Bee Jensen",
         "Image File Name": "48 Neuschwanstein.jpg"
     },
     {
         "id": "49",
         "Title": "Untitled",
+        "Date": "1961-62",
         "Where Art is Housed": "Michelle Salisbury McCullough",
         "Image File Name": "49 G.jpg"
     },
@@ -419,12 +469,15 @@
         "id": "50",
         "Title": "Berlin Kongresshalle",
         "Date": "1961-62",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Haus_der_Kulturen_der_Welt",
         "Where Art is Housed": "Janet Calder",
         "Image File Name": "50 Kongresshalle Berlin.jpg"
     },
     {
         "id": "51",
         "Title": "Swiss Cheese",
+        "Date": "1961-62",
         "Where Art is Housed": "Jay and Elaine Hughes",
         "Image File Name": "51 Swiss Cheese.jpg"
     },
@@ -445,6 +498,8 @@
     {
         "id": "54",
         "Title": "Lascaux",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Lascaux",
         "Where Art is Housed": "Becky Gunn Barton",
         "Comments": "On the walls of Lascaux Cave in southwestern France are impressive drawings from prehistoric time.",
         "Image File Name": "54 Lasceaux.jpg"
@@ -466,6 +521,8 @@
         "id": "57",
         "Title": "California Shore",
         "Date": "1970s",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject": "https://en.wikipedia.org/wiki/California",
         "Where Art is Housed": "Bent Hansen",
         "Image File Name": "57 California Shore Bent.jpg"
     },
@@ -473,6 +530,8 @@
         "id": "58",
         "Title": "Mt. Rundle in Banff National Park",
         "Date": "1970s",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Mount_Rundle",
         "Where Art is Housed": "Jay and Elaine Hughes",
         "Comments": "Dad went to Art School in Banff in the 1930s.",
         "Image File Name": "58 Mt. Rundle.jpg"
@@ -487,6 +546,9 @@
         "id": "60",
         "Title": "Redwoods",
         "Date": "1970s",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Redwood_National_and_State_Parks",
         "Where Art is Housed": "Kathy Schlendorf",
         "Image File Name": "60 Redwoods Schlendorf.jpg"
     },
@@ -494,6 +556,9 @@
         "id": "61",
         "Title": "Redwoods",
         "Date": "1980s",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Redwood_National_and_State_Parks",
         "Where Art is Housed": "Becky Gunn Barton",
         "Comments": "Becky was born in Redwood City, California.",
         "Image File Name": "61 Redwoods Becky.jpg"
@@ -502,6 +567,7 @@
         "id": "62",
         "Title": "Alpensee",
         "Date": "1970s",
+        "Location Painted": "40.2636,-111.6364",
         "Where Art is Housed": "Candy Gunn Salisbury",
         "Comments": "The lake seen from Neuschwanstein, Germany.",
         "Image File Name": "62 Alpensee.jpg"
@@ -510,6 +576,9 @@
         "id": "63",
         "Title": "Lake Powell",
         "Date": "1980s",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Lake_Powell",
         "Where Art is Housed": "Jeff Barton",
         "Image File Name": "63 Lake Powell.jpg"
     },
@@ -524,6 +593,7 @@
         "id": "65",
         "Title": "Island of Santorini Greece",
         "Date": "1980s",
+        "Location Painted": "40.2636,-111.6364",
         "Subject": "https://en.wikipedia.org/wiki/Santorini",
         "Where Art is Housed": "Jeremy Barton",
         "Image File Name": "65 Santorini Jeremy.jpg"
@@ -540,6 +610,7 @@
         "id": "67",
         "Title": "Santorini",
         "Date": "1980s",
+        "Location Painted": "40.2636,-111.6364",
         "Subject": "https://en.wikipedia.org/wiki/Santorini",
         "Where Art is Housed": "Jimmy Barton",
         "Comments": "See page 126 in Vignette 1 for details.",
@@ -584,6 +655,7 @@
     {
         "id": "73",
         "Title": "Autobahn",
+        "Subject": "https://en.wikipedia.org/wiki/Autobahn",
         "Where Art is Housed": "Woodbury Estate",
         "Comments": "Woodbury was a lifelong friend of Dad's",
         "Image File Name": "73 Autobahn Woodbury.jpg"
@@ -604,6 +676,9 @@
     {
         "id": "76",
         "Title": "Lake Powell",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject Location": "49.34092579677813, -0.5982155409750191",
+        "Subject": "https://en.wikipedia.org/wiki/Lake_Powell",
         "Where Art is Housed": "Jeff Barton?",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "76 Lake Powell.jpg"
@@ -611,13 +686,13 @@
     {
         "id": "77",
         "Title": "Bubbles",
-        "Where Art is Housed": "??",
+        "Where Art is Housed": "Sarah Stout Hunsaker",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "77 Bubbles crop.JPG"
     },
     {
         "id": "78",
-        "Title": "(Abstract)",
+        "Title": "Untitled",
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "78.jpg"
@@ -631,7 +706,7 @@
     },
     {
         "id": "80",
-        "Title": "(Abstract)",
+        "Title": "Untitled",
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "80 Rick.jpg"
@@ -680,14 +755,14 @@
     },
     {
         "id": "87",
-        "Title": "(Abstract)",
+        "Title": "Untitled",
         "Where Art is Housed": "Rick Gunn Valdez",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "87 Rick.jpg"
     },
     {
         "id": "88",
-        "Title": "(Abstract)",
+        "Title": "Untitled",
         "Where Art is Housed": "Rick Gunn Valdez",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "88 Rick.jpg"
@@ -737,6 +812,8 @@
     {
         "id": "95",
         "Title": "Anne Bradstreet",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject": "https://en.wikipedia.org/wiki/Anne_Bradstreet",
         "Where Art is Housed": "??",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "95 Anne Bradstreet.JPG"
@@ -744,6 +821,7 @@
     {
         "id": "96",
         "Title": "Cotton Mather",
+        "Location Painted": "40.2636,-111.6364",
         "Subject": "https://en.wikipedia.org/wiki/Cotton_Mather",
         "Where Art is Housed": "Candy Gunn Salisbury",
         "Comments": "Found in the attic when Jeanine got married",
@@ -760,20 +838,23 @@
         "id": "98",
         "Title": "Joseph Smith",
         "Date": "1961",
-        "Where Art is Housed": "??",
+        "Subject": "https://en.wikipedia.org/wiki/Joseph_Smith_Jr.",
+        "Where Art is Housed": "Slide collection",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "98 Joseph Smith 1961.jpg"
     },
     {
         "id": "99",
         "Title": "On the Road to Bethlehem",
-        "Where Art is Housed": "??",
+        "Location Painted": "40.2636,-111.6364",
+        "Subject": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+        "Where Art is Housed": "Slide collection",
         "Comments": "Found in the attic when Jeanine got married",
         "Image File Name": "99 On the Road to Bethlehem.jpg"
     },
     {
         "id": "100",
-        "Title": "Abstract",
+        "Title": "Untitled",
         "Where Art is Housed": "Evelyn Oaks Moody",
         "Comments": "Dallin Oaks' sister",
         "Image File Name": "Evelyn Oaks.jpg"

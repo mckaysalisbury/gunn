@@ -9,8 +9,10 @@
             function blockFromWork(work) {
                 work.header = work.Title;
                 work.href = `work.html?id=${work.id}`;
-                if (work["Image File Name"]) {
-                    work.image = `images/${work["Image File Name"]}`;
+                const imageFileName = work["Image File Name"]
+                if (imageFileName) {
+                    work.image = `images/${imageFileName}`;
+                    work.alt = work.Title
                 }
                 return work
             }
