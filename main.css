@@ -46,3 +46,11 @@ body {
     color: #002E5D;
     background-color: white;
 }
+
+#footer {
+    margin: auto;
+    width:85%;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
